@@ -1,7 +1,7 @@
 # paddy-cult---satellite
 It determines the type of  paddy crop field using satellite image!
 
-# Websute link (main website)
+# Website link (main website)
 visit here:-https://adithiya5hub.github.io/Megathon-Pady_Cult/
 
 # Technologies used
